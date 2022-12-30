@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GatasdaManu", "GatasdaManu\GatasdaManu.csproj", "{81929E33-8944-470F-884E-87E7EBB67320}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scr", "scr", "{67704808-0834-4139-BB8A-D722A6395D1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{C3E0990A-F2A1-4753-A5A4-03B3DE6A6C5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81929E33-8944-470F-884E-87E7EBB67320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81929E33-8944-470F-884E-87E7EBB67320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81929E33-8944-470F-884E-87E7EBB67320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81929E33-8944-470F-884E-87E7EBB67320}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{81929E33-8944-470F-884E-87E7EBB67320} = {67704808-0834-4139-BB8A-D722A6395D1A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DB8AD70-4742-41BD-A070-FB117C15F220}
+	EndGlobalSection
+EndGlobal
